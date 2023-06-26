@@ -1,4 +1,3 @@
 # README
 
-Ruby is fun!
-bla bla bla
+First test repo on the complet Ruby on Rails Developer course by Posa Radu!
